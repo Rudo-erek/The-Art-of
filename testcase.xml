@@ -1,0 +1,25 @@
+<log4j:NDC><![CDATA[SEQUENCEID:C{55E993A0-EF0E-4558-BDAC-D7EDA2E16886}|URI:/8v2jtvj9268/d1p1photpm/d1p1pku8ne1/d1p1pl03ar/d1p1pl0405/md7p60lbkd4/md7p60ln3bp/md7p60ln3uh/md7p60ls7bm/md7p60lt46p/md7p60lt9n6/|TESTCASE:T09-0209模型取数支持使用导入的数据进行数据提取|AWSN:T1-5|AWNAME:#SG3_单击|ALIAS:SGUI_Click]]></log4j:NDC>
+<log4j:MDC>
+    <log4j:data name="ModuleID" value="smartgui3.0-aw.jar"/>
+    <log4j:data name="MsgType" value="3"/>
+    <log4j:data name="Protocol" value=""/>
+</log4j:MDC>
+</log4j:event>
+<log4j:event logger="LogInfo" timestamp="1503590032059" level="INFO" thread="5968">
+<log4j:message><![CDATA[Description:00:00:45.183|MsgFlow:]]></log4j:message>
+<log4j:NDC><![CDATA[SEQUENCEID:C{55E993A0-EF0E-4558-BDAC-D7EDA2E16886}|URI:/8v2jtvj9268/d1p1photpm/d1p1pku8ne1/d1p1pl03ar/d1p1pl0405/md7p60lbkd4/md7p60ln3bp/md7p60ln3uh/md7p60ls7bm/md7p60lt46p/md7p60lt9n6/|TESTCASE:T09-0209模型取数支持使用导入的数据进行数据提取|AWSN:T1-5|AWNAME:#SG3_单击|ALIAS:SGUI_Click]]></log4j:NDC>
+<log4j:MDC>
+    <log4j:data name="ModuleID" value="AWExecutor"/>
+    <log4j:data name="MsgType" value="3"/>
+    <log4j:data name="Protocol" value="1003"/>
+</log4j:MDC>
+</log4j:event>
+<log4j:event logger="LogInfo" timestamp="1503590032074" level="ERROR" thread="7812">
+<log4j:message><![CDATA[Description:Failed to execute AW "#SG3_单击".|MsgFlow:]]></log4j:message>
+<log4j:NDC><![CDATA[SEQUENCEID:C{55E993A0-EF0E-4558-BDAC-D7EDA2E16886}|URI:/8v2jtvj9268/d1p1photpm/d1p1pku8ne1/d1p1pl03ar/d1p1pl0405/md7p60lbkd4/md7p60ln3bp/md7p60ln3uh/md7p60ls7bm/md7p60lt46p/md7p60lt9n6/|TESTCASE:T09-0209模型取数支持使用导入的数据进行数据提取|AWSN:T1-5|AWNAME:#SG3_单击|ALIAS:SGUI_Click]]></log4j:NDC>
+<log4j:MDC>
+    <log4j:data name="ModuleID" value="CaseRun"/>
+    <log4j:data name="MsgType" value="3"/>
+    <log4j:data name="Protocol" value=""/>
+</log4j:MDC>
+</log4j:event>
